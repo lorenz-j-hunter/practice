@@ -20,6 +20,7 @@
     background-color: blue;
     
     float: left;
+    padding: 20px;
 }
 
 .header {
@@ -29,4 +30,11 @@
     float: left;
     top: 0px;
     left: 0px;
+}
+
+.footer {
+    color: white;
+    background-color: purple;
+
+    clear: both;
 }
