@@ -7,3 +7,17 @@
     color: blue;
     text-align: center;
 }
+
+.section {
+    color: white;
+    background-color: red;
+
+    float: left;
+}
+
+.aside {
+    color: white;
+    background-color: blue;
+    
+    float: left;
+}    
