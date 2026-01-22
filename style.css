@@ -7,3 +7,33 @@
     color: blue;
     text-align: center;
 }
+
+.section {
+    color: white;
+    background-color: red;
+
+    float: left;
+}
+
+.aside {
+    color: white;
+    background-color: blue;
+    
+    float: left;
+}
+
+.header {
+    color: white;
+    background-color: goldenrod;    
+    
+    float: left;
+    top: 0px;
+    left: 0px;
+}
+
+.footer {
+    color: white;
+    background-color: purple;
+
+    clear: both;
+}
