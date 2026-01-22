@@ -20,4 +20,13 @@
     background-color: blue;
     
     float: left;
-}    
+}
+
+.header {
+    color: white;
+    background-color: goldenrod;    
+    
+    float: left;
+    top: 0px;
+    left: 0px;
+}
