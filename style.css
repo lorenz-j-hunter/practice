@@ -39,6 +39,13 @@
     clear: both;
 }
 
+.p {
+    color: white;
+    background-color: goldenrod;
+    
+    padding: 5px;
+}
+
 .grid {
     display: grid;
     margin: 20px;
