@@ -49,6 +49,9 @@
 .grid {
     display: grid;
     margin: 20px;
+    
+    background-color: green;
+    color: white;
 }
 
 .image {
