@@ -1,9 +1,9 @@
-.para {
+.header {
     color: white;
     background-color: maroon;
 }
 
-.meta {
+.navbar {
     color: blue;
     text-align: center;
 }
@@ -42,4 +42,13 @@
 .grid {
     display: grid;
     margin: 20px;
+}
+
+.image {
+    height: 5dvh;
+    width: 5dvw;
+    
+    display: relative;
+    top: 100px;
+    left: 80dvw;
 }
