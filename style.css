@@ -38,3 +38,8 @@
 
     clear: both;
 }
+
+.grid {
+    display: grid;
+    margin: 20px;
+}
